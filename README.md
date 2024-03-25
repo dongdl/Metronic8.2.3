@@ -25,3 +25,44 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Reset vscode:
+%APPDATA%\Code\User   => Delete settings.json
+%USERPROFILE%\.vscode\extensions  => Delete all extensions
+
+## Install extensions for vscode
+
+Angular 17 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
+Angular Language Service
+Angular File Generator for VSCode
+Angular Files
+Angular Schematics
+Angular-Essentials
+Font Awesome
+Prettier - Code formatter
+Prettier SQL VSCode
+Auto Import
+JavaScript (ES6) code snippets
+Babel ES6/ES7
+JavaScript (ES6) code snippets
+Rainbow Brackets
+npm Intellisense
+npm Dependency Links
+ESLint
+Bootstrap 5 Quick Snippets
+Bootstrap 5 & Font Awesome Snippets
+HTML CSS Support
+HTML Boilerplate
+HTML Format
+HTML to CSS autocompletion
+HTML Class Suggestions
+Html5 Reset Css
+Color Picker
+json
+Fix JSON
+JSON to TS
+JSON Utility
+Bootstrap 5 and jQuery CDN Snippets
+
+Chrome Extension Developer Tools
+Open Browser Preview
